@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.btn{
+    font-size: 2vw;  
+    color: white;
+    padding: 1vw;
+    margin: 1vw;
+}
+.ans{
+    color: white;
+    font-size: 2vw;
+    margin: 1vw;
+}
+.cover{
+    position: relative;
+left: 38vw;
+top: 8vw;
+padding: 2vw;
+border: 0.2vw solid white;
+background-color: gray;
+}
+
